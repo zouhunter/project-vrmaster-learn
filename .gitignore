@@ -1,0 +1,60 @@
+# =============================== #
+# HoloToolkit expamples and tests #
+# ================================#
+
+HoloToolkit-Examples/
+HoloToolkit-Examples.meta
+HoloToolkit-Tests/
+HoloToolkit-Tests.meta
+HoloToolkit-UnitTests/
+HoloToolkit-UnitTests.meta
+
+.vs/
+.vscode/
+Assets/TextMesh Pro/
+Assets/TextMesh Pro.meta
+Assets/VsCode
+Assets/VsCode.meta
+
+
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+Bin/
+Builds/
+UnityGenerated/
+Library/
+Assets/AssetStoreTools*
+App/
+UWP/
+project.json
+project.lock.json
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+.vs/
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+/*.csproj
+*.csproj
+*.pidb
+*.suo
+/*.sln
+*.sln
+*.user
+*.unityproj
+*.ipch
+*.opensdf
+*.sdf
+*.obj
+*.tlog
+*.log
+*.idb
+*.opendb
+WSATestCertificate.pfx
+WSATestCertificate.pfx.meta
