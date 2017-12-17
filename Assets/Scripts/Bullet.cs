@@ -9,7 +9,7 @@ public class Bullet : MonoBehaviour
 	const string bulletLayerName = "Bullet";		//The name of the layer the bullet starts on
 	const string bounceLayerName = "BounceBullet";	//The name of the layer the bullet will be on after a bounce
 
-	public Transform source;						//Reference to the drone that fired this bullet
+	public Transform source { get; set; }						//Reference to the drone that fired this bullet
 	[SerializeField] float timeToLive = 5f;			//The life time of the bullet
 	[SerializeField] float normalSpeed = 5f;		//The speed that the bullet travels
 	[SerializeField] float bounceSpeed = 10f;		//The speed that the bullet travels after a bounce
