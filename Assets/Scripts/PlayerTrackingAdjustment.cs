@@ -1,7 +1,7 @@
 ﻿//This script adjusts the player's rig depending on whether VR is configured for roomscale or standing experiences. 
 
 using UnityEngine;
-using UnityEngine.VR;
+using UnityEngine.XR;
 
 public class PlayerTrackingAdjustment : MonoBehaviour 
 {

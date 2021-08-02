@@ -2,7 +2,7 @@
 //and the position with the keyboard
 
 using UnityEngine;
-using UnityEngine.VR;
+using UnityEngine.XR;
 using System.Collections;
 
 public class CameraEditorControl : MonoBehaviour

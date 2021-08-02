@@ -6,7 +6,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
-using UnityEngine.VR;
+using UnityEngine.XR;
 
 [RequireComponent(typeof(VRLineRenderer))]
 public class RaycastInput : MonoBehaviour 

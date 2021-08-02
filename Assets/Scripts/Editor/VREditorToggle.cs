@@ -6,7 +6,7 @@
 
 using UnityEngine;
 using UnityEditor;		//Enables the use of editor modifying code
-using UnityEngine.VR;	//Enables us to check VR settings
+using UnityEngine.XR;	//Enables us to check VR settings
 
 public class VREditorToggle
 {

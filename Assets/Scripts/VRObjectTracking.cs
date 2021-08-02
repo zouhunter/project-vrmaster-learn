@@ -1,7 +1,7 @@
 ﻿//This script allows for 3D input tracking using Unity's built in tracking system
 
 using UnityEngine;
-using UnityEngine.VR;
+using UnityEngine.XR;
 
 public class VRObjectTracking : MonoBehaviour 
 {

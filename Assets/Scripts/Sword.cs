@@ -3,7 +3,7 @@
 //effect on the sword
 
 using UnityEngine;
-using UnityEngine.VR;
+using UnityEngine.XR;
 
 public class Sword : MonoBehaviour 
 {
